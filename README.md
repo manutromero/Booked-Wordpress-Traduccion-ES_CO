@@ -5,4 +5,5 @@ Les quiero compartir los archivos. mo y po con la traduccion del plugin booked d
 - Para hacer uso de la traduccion solo deben asegurarse de tener el tema de wordpress en español colombia.
 - Luego descargar los dos archivos (.mo y .po) y pegarlos en la carpeta de "languages" del puglin.  
 Ruta `wp-content\plugins\booked\languages `
-
+## Versión
+Traducciones al español para la Versión 2.1, pueden faltar traducciones para versiones posteriores.
